@@ -1,0 +1,33 @@
+
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-image: url(./pngtree-vintage-black-alarm-clock-in-a-free-fall-on-a-red-picture-image_3654361.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    /* background-position: 200%; */
+  }
+  input[type="number"] {
+    padding: 8px;
+    font-size: 16px;
+    color: red;
+    border-radius: 20px;
+    border-color: black;
+  }
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: red ;
+    color: white;
+    border: 1px solid red;
+    border-radius: 20px;
+  }
+
+  #timer {
+    font-size: 48px;
+    margin-top: 20px;
+    color: red;
+    
+  }
